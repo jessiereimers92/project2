@@ -1,0 +1,37 @@
+body{
+    background-color:#A3A3A3;
+    color:#691818;
+    font-family:'Raleway', sans-serif;
+    font-size: 20px
+}
+h1{
+    color:#A44040;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+.question {
+  background:#691818;
+  color: white;
+  padding: 20px;
+ margin-top: 10px;
+}
+.answer{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    background-color:#A44040;
+    color:white;
+    display: none;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.wrapper{
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #A44040;
+}
